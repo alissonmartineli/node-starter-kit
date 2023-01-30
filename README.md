@@ -7,4 +7,4 @@ Included libraries:
 - TypeScript
 - ESLint
 - Prettier
-- Jest
+- Vitest
