@@ -8,3 +8,5 @@ Included libraries:
 - ESLint
 - Prettier
 - Vitest
+- tsx
+- tsup
